@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.550": "cpp",
+        "__config": "cpp",
+        "type_traits": "cpp"
+    }
+}
